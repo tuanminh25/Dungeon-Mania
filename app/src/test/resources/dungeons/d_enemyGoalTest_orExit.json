@@ -1,0 +1,30 @@
+{
+  "entities": [
+    {
+      "x": 4,
+      "y": 1,
+      "type": "player"
+    },
+    {
+      "type": "mercenary",
+      "x": 8,
+      "y": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "type": "exit"
+    }
+  ],
+  "goal-condition": {
+    "goal": "OR",
+    "subgoals": [
+      {
+        "goal": "exit"
+      },
+      {
+        "goal": "enemies"
+      }
+    ]
+  }
+}
