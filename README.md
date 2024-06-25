@@ -1,10 +1,10 @@
 # Dungeon Mania
 
-## How to Play
+## How to Install
 
 **1. First, clone the repository to your local machine:**
 
-   git clone git@github.com:tuanminh25/Dungeon-Mania.git
+   *git clone git@github.com:tuanminh25/Dungeon-Mania.git*
 
 **2. Navigate to the project directory in your terminal:**
 
